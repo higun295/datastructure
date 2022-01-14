@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{6DAC8822-DECB-438A-AE3E-C3C906DE26BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{6DAC8822-DECB-438A-AE3E-C3C906DE26BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{135B416C-E36B-482D-B91A-5BE80B3DB996}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6DAC8822-DECB-438A-AE3E-C3C906DE26BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DAC8822-DECB-438A-AE3E-C3C906DE26BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DAC8822-DECB-438A-AE3E-C3C906DE26BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
