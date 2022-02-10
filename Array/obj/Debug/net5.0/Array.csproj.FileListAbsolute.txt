@@ -1,0 +1,16 @@
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\Array.exe
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\Array.deps.json
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\Array.dll
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\ref\Array.dll
+E:\Projects\DataStructure\Array\bin\Debug\net5.0\Array.pdb
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.dll
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\ref\Array.dll
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.pdb
+E:\Projects\DataStructure\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache

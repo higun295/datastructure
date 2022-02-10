@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{6DAC8822-DECB-438A-AE3E-C3C906DE26BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{135B416C-E36B-482D-B91A-5BE80B3DB996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{135B416C-E36B-482D-B91A-5BE80B3DB996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{B24A1D41-7B1C-4816-AB40-07B543D965F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHashTable", "NewHashTable\NewHashTable.csproj", "{7878585D-72F5-4ACE-B73A-9B7BD49EB501}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{135B416C-E36B-482D-B91A-5BE80B3DB996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24A1D41-7B1C-4816-AB40-07B543D965F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24A1D41-7B1C-4816-AB40-07B543D965F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24A1D41-7B1C-4816-AB40-07B543D965F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24A1D41-7B1C-4816-AB40-07B543D965F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7878585D-72F5-4ACE-B73A-9B7BD49EB501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7878585D-72F5-4ACE-B73A-9B7BD49EB501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7878585D-72F5-4ACE-B73A-9B7BD49EB501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7878585D-72F5-4ACE-B73A-9B7BD49EB501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

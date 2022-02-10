@@ -1,0 +1,16 @@
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\HashTable.exe
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\HashTable.deps.json
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.json
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.dev.json
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\HashTable.dll
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\ref\HashTable.dll
+E:\Projects\DataStructure\HashTable\bin\Debug\net5.0\HashTable.pdb
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.csproj.AssemblyReference.cache
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfoInputs.cache
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfo.cs
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.csproj.CoreCompileInputs.cache
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.dll
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\ref\HashTable.dll
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.pdb
+E:\Projects\DataStructure\HashTable\obj\Debug\net5.0\HashTable.genruntimeconfig.cache

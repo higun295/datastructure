@@ -19,7 +19,29 @@ namespace LinkedList {
     public class SinglyLinkedList<T> {
         private SinglyLinkedListNode<T> head;
 
-        public void Add(SinglyLinkedListNode<T> newNode) {
+        public void Add(
+            SinglyLinkedListNode<T> newNode) {
+            // 리스트가 비어 있으면
+            if(head == null) {
+                head = newNode;
+            }
+            else {
+                // 비어 있지 않으면
+                var current = head;
+
+                // 마지막 노드로 이동하여 추가
+                while(current != null &&
+                      current.Next != null) {
+                    current = current.Next;
+                }
+
+                current.Next = newNode;
+            }
+        }
+
+        public void AddAfter(
+            SinglyLinkedListNode<T> current,
+            SinglyLinkedListNode<T> newNode) {
 
         }
     }

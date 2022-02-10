@@ -1,0 +1,15 @@
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\NewHashTable.exe
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\NewHashTable.deps.json
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\NewHashTable.runtimeconfig.json
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\NewHashTable.runtimeconfig.dev.json
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\NewHashTable.dll
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\ref\NewHashTable.dll
+E:\Projects\DataStructure\NewHashTable\bin\Debug\net5.0\NewHashTable.pdb
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.AssemblyInfoInputs.cache
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.AssemblyInfo.cs
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.csproj.CoreCompileInputs.cache
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.dll
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\ref\NewHashTable.dll
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.pdb
+E:\Projects\DataStructure\NewHashTable\obj\Debug\net5.0\NewHashTable.genruntimeconfig.cache
